@@ -1,5 +1,5 @@
 const songTheHIT = new Audio()
-songTheHIT.src = './assets/efeitos_hit.wav'
+songTheHIT.src = './assets/efeitos_pulo.wav'
 
 const sprites = new Image()
 sprites.src = './sprites.png'
